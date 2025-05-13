@@ -1,4 +1,10 @@
-python-dotenv ## used to call env vars
+python-dotenv
 pandas
 numpy
+pymongo
+certifi
+
+
+
+## -e . we gonna use it at the last 
 
